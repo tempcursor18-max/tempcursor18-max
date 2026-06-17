@@ -16,29 +16,23 @@
 </p>
 
 <!-- ABOUT ME -->
-<div align="center">
+<div>
+  <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ [Yᴏᴜʀ Nᴀᴍᴇ]!
-
 *Digital Craftsman (Full Stack Developer / Security Researcher / AI Builder)*
-
 <br/>
 
-<img width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-<br/><br/>
-
+<p align="left">
 I'm a passionate BTech CSE student who loves building full-stack web applications, hunting vulnerabilities, and training AI models — three fields that combined let me build things that are powerful <em>and</em> secure. I use AI tools not as a crutch but as a superpower to move faster and think deeper.
-
-<br/><br/>
+</p>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"/> &nbsp;Building **full-stack apps with security-first architecture**
 - <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="22"/> &nbsp;Exploring **ethical hacking, CTFs & penetration testing**
 - <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="22"/> &nbsp;Experimenting with **AI/ML, LLMs & prompt engineering**
 - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22"/> &nbsp;Contributing to **Open Source**
 - <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22"/> &nbsp;Visit my **[Portfolio](https://your-portfolio.vercel.app)** for more details about me
-
-</div>
 
 <!-- TECH STACK -->
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Tᴏᴏʟs</h2>
@@ -60,49 +54,23 @@ I'm a passionate BTech CSE student who loves building full-stack web application
   </picture>
 </div>
 
-<!-- FEATURED PROJECTS -->
-<h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
-
-<div align="center">
-
-<a href="https://github.com/devzeromax/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/devzeromax/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-<a href="https://github.com/devzeromax/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/devzeromax/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-<a href="https://github.com/devzeromax/YOUR_REPO_5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/devzeromax/YOUR_REPO_6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devzeromax&repo=YOUR_REPO_6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-</div>
-
 <!-- GITHUB STREAK -->
 <h2 align="center">GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devzeromax&theme=ocean-gradient&hide_border=true)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=devzeromax&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
 <!-- OPEN TO COLLABORATION -->
 <h2 align="center">Oᴘᴇɴ ᴛᴏ Cᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ</h2>
 
-<table width="100%">
+<div align="center">
+
+<table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="200">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/code-braces-box.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/code-braces-box.svg?color=black">
@@ -117,7 +85,7 @@ I'm a passionate BTech CSE student who loves building full-stack web application
     System Architecture
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="200">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/shield-lock-outline.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/shield-lock-outline.svg?color=black">
@@ -132,7 +100,7 @@ I'm a passionate BTech CSE student who loves building full-stack web application
     Secure Code Review
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="200">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/brain.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/brain.svg?color=black">
@@ -147,7 +115,7 @@ I'm a passionate BTech CSE student who loves building full-stack web application
     Prompt Engineering
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="200">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/open-source-initiative.svg?color=black">
@@ -164,6 +132,8 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 </td>
 </tr>
 </table>
+
+</div>
 
 <!-- CONNECT -->
 <h2 align="center">Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
