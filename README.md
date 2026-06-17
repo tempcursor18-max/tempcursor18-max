@@ -13,28 +13,28 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devzeromax&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile Views" />
+</div>
 
 <!-- ABOUT ME -->
 <div>
   <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ [Yᴏᴜʀ Nᴀᴍᴇ]!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome to My Profile!
 *Digital Craftsman (Full Stack Developer / Security Researcher / AI Builder)*
 <br/>
 
-<p align="left">
-I'm a passionate BTech CSE student who loves building full-stack web applications, hunting vulnerabilities, and training AI models — three fields that combined let me build things that are powerful <em>and</em> secure. I use AI tools not as a crutch but as a superpower to move faster and think deeper.
+<p align="center">
+I'm a passionate developer who loves building full-stack web applications, hunting vulnerabilities, and training AI models — three fields that combined let me build things that are powerful <em>and</em> secure. I use AI tools not as a crutch but as a superpower to move faster and think deeper.
 </p>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"/> &nbsp;Building **full-stack apps with security-first architecture**
 - <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="22"/> &nbsp;Exploring **ethical hacking, CTFs & penetration testing**
 - <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="22"/> &nbsp;Experimenting with **AI/ML, LLMs & prompt engineering**
 - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22"/> &nbsp;Contributing to **Open Source**
-- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22"/> &nbsp;Visit my **[Portfolio](https://your-portfolio.vercel.app)** for more details about me
+- <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22"/> &nbsp;Visit my portfolio for more details about me
 
 ---
 
@@ -49,46 +49,23 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
+<!-- GITHUB STATS -->
 <h2 align="center">Mʏ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=devzeromax&theme=ocean-gradient&hide_border=true" />
   </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- FEATURED PROJECTS - github-readme-stats pinned cards -->
+<!-- FEATURED PROJECTS -->
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_5">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_6">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&icon_color=00D9FF" />
-</a>
-
-</div>
+<p align="center">
+  <em>Check out my repositories for amazing projects!</em>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -167,23 +144,17 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devzeromax)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devzeromax)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devzeromax)
 
 <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/>
 &nbsp;
 <em><b>Open to collabs, hackathons, CTFs, or just a good tech conversation — DMs are open!</b></em>
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="200"/>
-</a>
 
 </div>
 
