@@ -16,11 +16,11 @@
 </p>
 
 <!-- ABOUT ME -->
-<div>
-  <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</div>
+<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ [Yᴏᴜʀ Nᴀᴍᴇ]!
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ [Yᴏᴜʀ Nᴀᴍᴇ]!
+</h3>
 *Digital Craftsman (Full Stack Developer / Security Researcher / AI Builder)*
 <br/>
 
@@ -58,9 +58,7 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 <h2 align="center">GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=devzeromax&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devzeromax&theme=ocean-gradient&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- OPEN TO COLLABORATION -->
