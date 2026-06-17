@@ -57,11 +57,11 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 <!-- GITHUB STREAK -->
 <h2 align="center">GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devzeromax&theme=ocean-gradient&hide_longest_streak=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=devzeromax&theme=ocean-gradient&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
+</p>
 
 <!-- OPEN TO COLLABORATION -->
 <h2 align="center">Oᴘᴇɴ ᴛᴏ Cᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ</h2>
