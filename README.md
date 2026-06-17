@@ -33,7 +33,6 @@ I'm a passionate BTech CSE student who loves building full-stack web application
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"/> &nbsp;Building **full-stack apps with security-first architecture**
 - <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="22"/> &nbsp;Exploring **ethical hacking, CTFs & penetration testing**
 - <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="22"/> &nbsp;Experimenting with **AI/ML, LLMs & prompt engineering**
-- <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="22"/> &nbsp;Currently learning **Docker, TypeScript & LangChain**
 - <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22"/> &nbsp;Contributing to **Open Source**
 - <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22"/> &nbsp;Visit my **[Portfolio](https://your-portfolio.vercel.app)** for more details about me
 
